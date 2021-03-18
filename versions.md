@@ -1,8 +1,3 @@
----
-title: AppleTrack Versions
-layout: template
-filename: versions
---- 
 # Version (Beta) 0.1
 
  - **AppleTrack Protocol Version**: Pro
