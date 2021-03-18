@@ -1,8 +1,4 @@
----
-title: AppleTrack Home
-layout: template
-filename: index
---- 
+
 # Welcome to AppleTrack!
 
 Welcome to AppleTrack, an amateur idea turned into an open-source project that allows the user to track a moving projectile using an Arduino or Pi with both GPS and Telemetry functionality.
