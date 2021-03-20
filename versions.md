@@ -1,4 +1,6 @@
-# Version (Beta) 0.1
+# AppleTrack Versions
+
+## Version (Beta) 0.1
 
  - **AppleTrack Protocol Version**: Pro
  - **AppleTrack Version Release Date**: July 2019
@@ -6,7 +8,7 @@
  - ***Toss.exe*** is the program that tracks the tosses
  - ***Data.exe*** is the program to convert BIN to CSV
 
-# Version (Beta) 0.2
+## Version (Beta) 0.2
 
  - **AppleTrack Protocol Version**: Max
  - **AppleTrack Version Release Date**: TBD
